@@ -5,10 +5,10 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - Determine if a number is positive,negative or  zero
- *
- * Return: 0 on success
- */
+* main - Determine if a number is positive,negative or  zero
+*
+* Return: 0 on success
+*/
 int main(void)
 {
 int n;
