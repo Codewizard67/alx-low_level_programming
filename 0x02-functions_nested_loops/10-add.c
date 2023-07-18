@@ -1,7 +1,7 @@
 #include "math.h"
 
 /**
- * add - Adds two values
+ * add - Adds two integers and returns the result
  * @n1: The first number to be computed
  * @n2: The second number tobe computed
  * Retuen: Integer value
